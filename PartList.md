@@ -22,7 +22,7 @@
 | Part Name                | Links                | Count       | Ordered     | Done        |
 | ------------------------ | -------------------- | ----------- | ----------- | ----------- |
 | LED SK66812 5050         |[RGBLED][14]          | 24          | :x:         | :x:         |
-| LED 3mm                  |[RGBLED][15]          | 70          | :x:         | :x:         |
+| LED 3mm                  |[BacklightLED][15]    | 70          | :x:         | :x:         |
 | 470Ohm Resistor          |[470Resistor][16]     | 70          | :x:         | :x:         |
 | 1KOhm Resistor           |[1KResistor][16]      | 2           | :x:         | :x:         |
 | NchMOSFET IRLML6344TRPbf |[MOSFET][17]          | 2           | :x:         | :x:         |
