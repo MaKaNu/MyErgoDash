@@ -10,14 +10,14 @@
 | 1N4148 diode         |[diodes][6]           | 70          | :heavy_check_mark: | :x:                | 2.45 $      |
 | Arduino Pro Micro    |[Pro Micro][7]        | 2           | :heavy_check_mark: | :x:                | 9.39 $      |
 | TRRS jack MJ-4PP-9   |[MJ-4PP-9][8]         | 2           | :heavy_check_mark: | :x:                | 2.71 $      |
-| MJTP1117 switch      |[MJTP1117][9]         | 2           | :x:                | :x:                |             |
+| MJTP1117 switch      |[MJTP1117][9]         | 2           | :heavy_check_mark: | :x:                | 1.61 $      |
 | TRRS cable           |[TRRS cable][10]      | 1           | :x:                | :x:                |             |
 | Micro USB cable      |[Micro USB cable][11] | 1           | :heavy_check_mark: | :x:                | 3.53 $      |
 | M2x5mm Screws        |[M2x5][12]            | 26          | :heavy_check_mark: | :x:                | 0.90 $      |
 | M2x8mm Screws        |[M2x8][12]            | 6           | :heavy_check_mark: | :x:                | 0.90 $      |
 | M2x6mm Spacer        |[M2x6][13]            | 16          | :heavy_check_mark: | :x:                | 1.30 $      |
 | Rubber Feet          |[Rubber Feet][14]     | 8           | :heavy_check_mark: | :x:                | 2.30 $      |
-|                      |                      |             |                    | Total:             | 35.06 $     |
+|                      |                      |             |                    | Total:             | 31.67 $     |
 
 # Optional
 
@@ -39,8 +39,7 @@
 [6]:https://de.aliexpress.com/item/1934432186.html
 [7]:https://de.aliexpress.com/item/1005001621886380.html
 [8]:https://de.aliexpress.com/item/32368285821.html
-[9]:https://de.farnell.com/apem/mjtp1117/tactile-sw-spst-0-05a-12vdc-th/dp/2858318
-[10]:https://zapcables.com/diy-trrs-cable-kit/
+[9]:https://de.aliexpress.com/item/1005001342833282.html
 [11]:https://de.aliexpress.com/item/4000311331611.html
 [12]:https://de.aliexpress.com/item/10000181324125.html
 [13]:https://de.aliexpress.com/item/4000239735518.html
