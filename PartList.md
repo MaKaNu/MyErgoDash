@@ -1,23 +1,23 @@
 # Part List
 
-| Part Name            | Links                | Count       | Ordered            | Done               | Cost        | 
-| -------------------- | -------------------- | ----------- | ------------------ | ------------------ | ----------- |
-| PCB                  |[PCB][1]              | 2           | :x:                | :x:                |             |
-| CASE                 |[CASE][2]             | 2           | :x:                | :x:                |             |
-| Kailh-Tester         |[Kailh-Tester][3]     | 2           | :heavy_check_mark: | :x:                | 11.58 $     |
-| Kailh-Switches-Color |[Kailh-Switches][4]   | 70          | :x:                | :x:                |             |
-| Keycaps              |not choosen yet       | 70          | :x:                | :x:                |             |
-| 1N4148 diode         |[diodes][6]           | 70          | :heavy_check_mark: | :x:                | 2.45 $      |
-| Arduino Pro Micro    |[Pro Micro][7]        | 2           | :heavy_check_mark: | :x:                | 9.39 $      |
-| TRRS jack MJ-4PP-9   |[MJ-4PP-9][8]         | 2           | :heavy_check_mark: | :x:                | 2.71 $      |
-| MJTP1117 switch      |[MJTP1117][9]         | 2           | :heavy_check_mark: | :x:                | 1.61 $      |
-| TRRS cable           |[TRRS cable][10]      | 1           | :x:                | :x:                |             |
-| Micro USB cable      |[Micro USB cable][11] | 1           | :heavy_check_mark: | :x:                | 3.53 $      |
-| M2x5mm Screws        |[M2x5][12]            | 26          | :heavy_check_mark: | :x:                | 0.90 $      |
-| M2x8mm Screws        |[M2x8][12]            | 6           | :heavy_check_mark: | :x:                | 0.90 $      |
-| M2x6mm Spacer        |[M2x6][13]            | 16          | :heavy_check_mark: | :x:                | 1.30 $      |
-| Rubber Feet          |[Rubber Feet][14]     | 8           | :heavy_check_mark: | :x:                | 2.30 $      |
-|                      |                      |             |                    | Total:             | 31.67 $     |
+| Part Name            | Links                   | Count       | Ordered            | Done               | Cost        | 
+| -------------------- | ----------------------- | ----------- | ------------------ | ------------------ | ----------- |
+| PCB                  |[PCB][1] by [JLCPCB][1b] | 2           | :heavy_check_mark: | :x:                | 25.90 $     |
+| CASE                 |[CASE][2]                | 2           | :x:                | :x:                |             |
+| Kailh-Tester         |[Kailh-Tester][3]        | 2           | :heavy_check_mark: | :x:                | 11.58 $     |
+| Kailh-Switches-Color |[Kailh-Switches][4]      | 70          | :x:                | :x:                |             |
+| Keycaps              |not choosen yet          | 70          | :x:                | :x:                |             |
+| 1N4148 diode         |[diodes][6]              | 70          | :heavy_check_mark: | :x:                | 2.45 $      |
+| Arduino Pro Micro    |[Pro Micro][7]           | 2           | :heavy_check_mark: | :x:                | 9.39 $      |
+| TRRS jack MJ-4PP-9   |[MJ-4PP-9][8]            | 2           | :heavy_check_mark: | :x:                | 2.71 $      |
+| MJTP1117 switch      |[MJTP1117][9]            | 2           | :heavy_check_mark: | :x:                | 1.61 $      |
+| TRRS cable           |[TRRS cable][10]         | 1           | :x:                | :x:                |             |
+| Micro USB cable      |[Micro USB cable][11]    | 1           | :heavy_check_mark: | :x:                | 3.53 $      |
+| M2x5mm Screws        |[M2x5][12]               | 26          | :heavy_check_mark: | :x:                | 0.90 $      |
+| M2x8mm Screws        |[M2x8][12]               | 6           | :heavy_check_mark: | :x:                | 0.90 $      |
+| M2x6mm Spacer        |[M2x6][13]               | 16          | :heavy_check_mark: | :x:                | 1.30 $      |
+| Rubber Feet          |[Rubber Feet][14]        | 8           | :heavy_check_mark: | :x:                | 2.30 $      |
+|                      |                         |             |                    | Total:             | 57.57 $     |
 
 # Optional
 
@@ -32,6 +32,7 @@
 
 
 [1]:https://github.com/omkbd/ErgoDash/tree/master/PCB
+[1b]:https://support.jlcpcb.com
 [2]:https://github.com/omkbd/ErgoDash/tree/master/Case
 [3]:https://de.aliexpress.com/item/33004266279.html
 [4]:https://de.aliexpress.com/item/32879369291.html
