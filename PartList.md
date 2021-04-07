@@ -24,12 +24,13 @@
 | Part Name                | Links                | Count       | Ordered            | Done               | Cost        | TotalCount | Price/Board |
 | ------------------------ | -------------------- | ----------- | ------------------ | ------------------ | ----------- | ---------- |  ---------- |
 | LED SK66812 5050         |[RGBLED][15]          | 24          | :heavy_check_mark: | :heavy_check_mark: | 8.22 $      | 100        | 1.97 $      |
-| LED 3mm                  |[BacklightLED][16]    | 70          | :heavy_check_mark: | :heavy_check_mark: | 2.46 $      | 100        | 1.72 $      |
+|~~LED 3mm~~               |~~[BacklightLED][16]~~| ~~70~~      | ~~:heavy_check_mark:~~| ~~:heavy_check_mark:~~ | ~~2.46 $~~ |      |             |
+| LED 1.8mm                |[BacklightLED][16b]   | 70          | :heavy_check_mark: | :heavy_check_mark: | 0.88 $      | 100        | 0.62 $      |
 |~~470Ohm Resistor~~       |~~[470Resistor][17]~~ | ~~70~~      |~~:heavy_check_mark:~~ | ~~:heavy_check_mark:~~ | ~~4.13 $~~ |      |             |
 | 470Ohm Resistor          |[470Resistor][17b]    | 70          | :heavy_check_mark: | :x:                | 7.73 $      | 200        | 2.70        |
 | 1KOhm Resistor           |[1KResistor][17]      | 2           | :x:                | :x:                |             | ?          | ?           |
 | NchMOSFET IRLML6344TRPbf |[MOSFET][18]          | 2           | :heavy_check_mark: | :heavy_check_mark: | 2.40 $      | 20         | 0.24 $      |
-|                          |                      |             |                    | Total:             | 20,81 $     |            | 6.63 $      |
+|                          |                      |             |                    | Total:             | 19.23 $     |            | 5.53 $      |
 
 Problems: I've ordered wrong resistors they are too big.
 
@@ -50,6 +51,7 @@ Problems: I've ordered wrong resistors they are too big.
 [14]:https://de.aliexpress.com/item/33030992785.html
 [15]:https://de.aliexpress.com/item/32527626500.html
 [16]:https://de.aliexpress.com/item/32281183062.html
+[16b]:https://de.aliexpress.com/item/32791278183.html
 [17]:https://de.aliexpress.com/item/1005002005031759.html
 [17b]:https://www.amazon.de/gp/product/B00YW4DTRG/ref=ppx_yo_dt_b_asin_title_o00_s00
 [18]:https://de.aliexpress.com/item/4001079662735.html
