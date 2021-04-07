@@ -5,7 +5,7 @@
 | PCB                  |[PCB][1] by [JLCPCB][1b] | 2           | :heavy_check_mark: | :heavy_check_mark: | 25.90 $     | 5          | 10.36 $     |
 | CASE                 |[CASE][2]                | 2           | :x:                | :x:                |             | ?          | ?           |
 | Kailh-Tester         |[Kailh-Tester][3]        | 1           | :heavy_check_mark: | :heavy_check_mark: | 11.58 $     | 1          | 0 $         |
-| Kailh-Switches-Color |[Kailh-Switches][4]      | 70          | :x:                | :x:                |             | ?          | ?           |
+| Kailh-Switches-Color |[Kailh-Switches][4]      | 70          | :heavy_check_mark: | :x:                | 30.60 $     | 70         | 30.60 $     |
 | Keycaps              |not choosen yet          | 70          | :x:                | :x:                |             | ?          | ?           |
 | 1N4148 diode         |[diodes][6]              | 70          | :heavy_check_mark: | :heavy_check_mark: | 2.45 $      | 100        | 1.72 $      |
 | Arduino Pro Micro    |[Pro Micro][7]           | 2           | :heavy_check_mark: | :heavy_check_mark: | 9.39 $      | 2          | 9.39 $      |
@@ -17,7 +17,7 @@
 | M2x8mm Screws        |[M2x8][12]               | 6           | :heavy_check_mark: | :heavy_check_mark: | 0.90 $      | 50         | 0.11 $      |
 | M2x6mm Spacer        |[M2x6][13]               | 16          | :heavy_check_mark: | :heavy_check_mark: | 1.30 $      | 50         | 0.42 $      |
 | Rubber Feet          |[Rubber Feet][14]        | 8           | :heavy_check_mark: | :heavy_check_mark: | 2.30 $      | 40         | 0.46 $      |
-|                      |                         |             |                    | Total:             | 57.57 $     |            | 27,05 $     |
+|                      |                         |             |                    | Total:             | 57.57 $     |            | 57,65 $     |
 
 # Optional
 
@@ -25,7 +25,7 @@
 | ------------------------ | -------------------- | ----------- | ------------------ | ------------------ | ----------- | ---------- |  ---------- |
 | LED SK66812 5050         |[RGBLED][15]          | 24          | :heavy_check_mark: | :heavy_check_mark: | 8.22 $      | 100        | 1.97 $      |
 |~~LED 3mm~~               |~~[BacklightLED][16]~~| ~~70~~      | ~~:heavy_check_mark:~~| ~~:heavy_check_mark:~~ | ~~2.46 $~~ |      |             |
-| LED 1.8mm                |[BacklightLED][16b]   | 70          | :heavy_check_mark: | :heavy_check_mark: | 0.88 $      | 100        | 0.62 $      |
+| LED 1.8mm                |[BacklightLED][16b]   | 70          | :heavy_check_mark: | :x:                | 0.88 $      | 100        | 0.62 $      |
 |~~470Ohm Resistor~~       |~~[470Resistor][17]~~ | ~~70~~      |~~:heavy_check_mark:~~ | ~~:heavy_check_mark:~~ | ~~4.13 $~~ |      |             |
 | 470Ohm Resistor          |[470Resistor][17b]    | 70          | :heavy_check_mark: | :x:                | 7.73 $      | 200        | 2.70        |
 | 1KOhm Resistor           |[1KResistor][17]      | 2           | :x:                | :x:                |             | ?          | ?           |
